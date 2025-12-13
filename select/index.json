@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Hey baby!",
+  "base_artist": "倖田來未",
+  "createdAt": "2025-12-13T06:51:24.762742Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hey Baby",
+      "artist": "Die Fantastischen Vier",
+      "has_synced": true,
+      "path": "select/01_Hey_Baby_Die_Fantastischen_Vier.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hey Baby",
+      "artist": "No Doubt",
+      "has_synced": true,
+      "path": "select/02_Hey_Baby_No_Doubt.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hey Baby (Adam K Dub Remix)",
+      "artist": "Melleefresh feat. deadmau5",
+      "has_synced": false,
+      "path": "select/03_Hey_Baby_(Adam_K_Dub_Remix)_Melleefresh_feat._deadmau5.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Interlude: Hey Baby",
+      "artist": "Janet Jackson",
+      "has_synced": true,
+      "path": "select/04_Interlude__Hey_Baby_Janet_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Interlude∶ Hey Baby",
+      "artist": "Janet Jackson",
+      "has_synced": true,
+      "path": "select/05_Interlude∶_Hey_Baby_Janet_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hey Baby (Club Remix - aka Girls Get The Bass In The Back)",
+      "artist": "No Doubt",
+      "has_synced": false,
+      "path": "select/06_Hey_Baby_(Club_Remix_-_aka_Girls_Get_The_Bass_In_The_Back)_No_Doubt.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Girls Get the Bass in the Back (Hey Baby remix)",
+      "artist": "No Doubt Bounty Killer",
+      "has_synced": false,
+      "path": "select/07_Girls_Get_the_Bass_in_the_Back_(Hey_Baby_remix)_No_Doubt_Bounty_Killer.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hey Baby",
+      "artist": "No Doubt feat. Bounty Killer",
+      "has_synced": true,
+      "path": "select/08_Hey_Baby_No_Doubt_feat._Bounty_Killer.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hey Baby",
+      "artist": "No Doubt Bounty Killer",
+      "has_synced": true,
+      "path": "select/09_Hey_Baby_No_Doubt_Bounty_Killer.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hey Baby (Fabian Remix a.k.a. The Homeboy Mix)",
+      "artist": "No Doubt",
+      "has_synced": false,
+      "path": "select/10_Hey_Baby_(Fabian_Remix_a.k.a._The_Homeboy_Mix)_No_Doubt.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hey Baby (Homeboy Mix)",
+      "artist": "No Doubt",
+      "has_synced": false,
+      "path": "select/11_Hey_Baby_(Homeboy_Mix)_No_Doubt.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hey Baby (Kelly G's Bumpin' Baby Club Mix)",
+      "artist": "No Doubt",
+      "has_synced": false,
+      "path": "select/12_Hey_Baby_(Kelly_G's_Bumpin'_Baby_Club_Mix)_No_Doubt.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hey Baby (Stank Remix)",
+      "artist": "No Doubt",
+      "has_synced": false,
+      "path": "select/13_Hey_Baby_(Stank_Remix)_No_Doubt.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hey Baby (Stank remix) (dirty version)",
+      "artist": "No Doubt",
+      "has_synced": false,
+      "path": "select/14_Hey_Baby_(Stank_remix)_(dirty_version)_No_Doubt.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Hey Baby (feat. Bounty Killer)",
+      "artist": "No Doubt",
+      "has_synced": true,
+      "path": "select/15_Hey_Baby_(feat._Bounty_Killer)_No_Doubt.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Hey Baby (New Rising Sun)",
+      "artist": "Jimi Hendrix",
+      "has_synced": true,
+      "path": "select/16_Hey_Baby_(New_Rising_Sun)_Jimi_Hendrix.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hey baby!",
+      "artist": "倖田 來未",
+      "has_synced": false,
+      "path": "select/pl_01_Hey_baby!_倖田_來未.txt"
+    }
+  ]
+}
